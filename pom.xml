@@ -11,10 +11,10 @@
     </parent>
 
     <groupId>com.msqgl</groupId>
-    <artifactId>duplicate-detector</artifactId>
+    <artifactId>duplicate-files-checker</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>duplicate-detector</name>
-    <description>Duplicate Detector Project</description>
+    <name>duplicate-files-checker</name>
+    <description>Duplicate Files Checker</description>
 
     <properties>
         <java.version>17</java.version>
