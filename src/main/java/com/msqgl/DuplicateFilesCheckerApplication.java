@@ -14,10 +14,10 @@ import java.util.*;
 
 @SpringBootApplication
 @Slf4j
-public class DuplicateDetectorApplication implements CommandLineRunner {
+public class DuplicateFilesCheckerApplication implements CommandLineRunner {
 
     public static void main(String[] args) {
-        SpringApplication.run(DuplicateDetectorApplication.class, args);
+        SpringApplication.run(DuplicateFilesCheckerApplication.class, args);
     }
 
     @Override
